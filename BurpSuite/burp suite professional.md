@@ -8,6 +8,6 @@
 
 
 
-2020 年 12 月 2 日 Burpsuite 专业版和企业版已经开放下载了。
+Burp 历史版本下载地址：
 
-历届 BP 版本的官方下载地址：https://portswigger.net/burp/releases
+https://portswigger.net/burp/releases
