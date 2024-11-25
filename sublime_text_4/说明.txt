@@ -1,0 +1,9 @@
+如果是采用 scoop 安装的 sublime text
+
+则拷贝到目录
+
+C:\ProgramData\scoop\apps\sublime-text\current\Packages
+
+或者
+
+D:\Scoop\apps\sublime-text\current\Packages
