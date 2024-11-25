@@ -1,0 +1,33 @@
+# 操作系统相关文件
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+.Spotlight-V100
+.Trashes
+
+# IDE/编辑器相关
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.sublime-project
+*.sublime-workspace
+session.sublime_session
+
+# 临时文件和备份
+*~
+*.temp
+*.backup
+*.old
+
+# 安装包和大型二进制文件 (使用 Git LFS 管理)
+# binaries/*
+# chrome_extensions/*
+# dbeaver/*.zip
+# intellij_idea/*.zip
+# nmap/*.exe
+# backup/*.*
+# wps_language_pack/*.zip
+
