@@ -10,7 +10,7 @@
 
 ### 安装插件
 
-chrome&edge:
+chrome & edge:
 
 > [!note]
 > 不能批量拖动 crx 文件进行安装，只能逐个添加
